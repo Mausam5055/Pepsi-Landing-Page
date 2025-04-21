@@ -2,6 +2,10 @@
 
 A modern, responsive landing page for Pepsi built with HTML, CSS, and JavaScript.
 
+## 🌐 Live Demo
+
+Check out the live version of the project: [Pepsi Landing Page](https://pepsi-landing-by-mausam.netlify.app/)
+
 ## 🚀 Features
 
 - Responsive design that works on all devices
@@ -56,4 +60,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For any inquiries, please reach out to [your-email@example.com](mailto:your-email@example.com) 
+For any inquiries, please reach out to [rikikumkar@gmail.com](mailto:rikikumkar@gmail.com) 

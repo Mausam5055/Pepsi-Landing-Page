@@ -24,10 +24,8 @@ Check out the live version of the project: [Pepsi Landing Page](https://pepsi-la
 
 ## 📸 Preview
 
-<div align="center">
-  <img src="img/preview1.png" alt="Preview 1" width="400"/>
-  <img src="img/preview2.png" alt="Preview 2" width="400"/>
-</div>
+![Preview 1](img/preview1.png)
+![Preview 2](img/preview2.png)
 
 ## 🛠️ Tech Stack
 
